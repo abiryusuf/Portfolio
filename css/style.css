@@ -96,6 +96,14 @@ body{
   color: black;  
   }
 
+  h5 {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+  .card {
+    margin: 30px;
+  }
+
 
 
 
