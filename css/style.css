@@ -136,7 +136,7 @@ body{
     margin-left: 0;
     padding: 0 20px;
     padding-left: 0;
-    color: black;
+    /* color: black; */
   }
   .card-img-top {
     height: 150px;
@@ -166,3 +166,5 @@ body{
       width: 100%;
     }
   }
+
+  
