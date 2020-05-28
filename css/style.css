@@ -8,7 +8,7 @@
       /* background-image: url("https://media.giphy.com/media/gXfsmtl2WYIBq/giphy.gif"); */
       background-image: url("https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
       background-color: #cccccc;
-      background: linear-gradient(-45deg, #b17664, rgb(114, 124, 103), #7da8b8, #9dd3c7);
+      background: linear-gradient(-45deg, #b17664, rgb(136, 165, 104), #7da8b8, #9dd3c7);
       background-size: 400% 400%;
       animation: gradient 10s ease infinite;
       margin: 0 auto;
@@ -113,6 +113,11 @@
     overflow-x: hidden
     
 }
+#about::first-letter{
+  color: tomato;
+  font-size: 30px;
+
+}
 
 .poppins-w {
     font-family: 'Poppins', sans-serif;
@@ -123,15 +128,28 @@
 }
 .card-img {
     margin: 40px;
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-  }
+    /* width: 300px;
+    height: 300px; */
+    border-radius: 40%;
+    border: 2px solid salmon;
+}
 
 .card-home {
   padding-top: 30px;
   width: 90%;
   margin: auto;
+}
+#skills{
+  color: white;
+  /* background-color: rgb(111, 105, 104); */
+  height: 300px;
+  
+  border-radius: 30px;
+  margin: 10px;
+ 
+}
+h3{
+  border-bottom: 1px solid salmon;
 }
   #text{
   margin-top: 0;
