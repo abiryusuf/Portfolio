@@ -1,11 +1,7 @@
 
-/* body{
-    font-family: Arial, Helvetica, sans-serif;
-    /* background-color:  rgb(226, 230, 226);  */
-    /* background-color: #ffff; */
+
 
     body {
-      /* background-image: url("https://media.giphy.com/media/gXfsmtl2WYIBq/giphy.gif"); */
       background-image: url("https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
       background-color: #cccccc;
       background: linear-gradient(-45deg, #b17664, rgb(136, 165, 104), #7da8b8, #9dd3c7);
@@ -32,14 +28,7 @@
   a:hover {
     color: sal;
   }
-  /* .branding2{
-    height: 40px;
-  } */
-  /* nav{
-    height: 30px;
-  } */
 
-  
   .nav-link {
     height: 20px; 
     color:white;
@@ -86,12 +75,7 @@
       background-position: 0% 50%;
   }
 }
-/* .jumbotron {
-    background: none;
-    align-content: center;
-    margin: 0% 5% 0 5%;
-  
-} */
+
 .inner-card-text {
     font-size: 20px;
     margin: 5% 8%;
